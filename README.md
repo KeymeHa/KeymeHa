@@ -22,6 +22,8 @@ como una idea, hasta su despliegue y mantenimiento. En mi vida secular me dedico
 <img src="https://img.shields.io/badge/CSS3-success" />
 <img src="https://img.shields.io/badge/Javascript-success" />
 <img src="https://img.shields.io/badge/Node JS-success" />
+<img src="https://img.shields.io/badge/Python-success" />
+ <img src="https://img.shields.io/badge/Backend-success" />
 <img src="https://img.shields.io/badge/Git-success" />
 <img src="https://img.shields.io/badge/Linux-success" />
 <img src="https://img.shields.io/badge/Servers-success" />
