@@ -12,10 +12,9 @@
 como una idea hasta su despliegue y mantenimiento, en mi vida secular me dedico a la música y a disfrutar en familia de la vida.</p>
 <br>
 <hr>
-<h3 align="left">Algo sobre mí</h3>
+<h3 align="left">Herramientas y Habilitades</h3>
 <br>
-<img src="https://img.shields.io/badge/PHP-success" />
-<img src="https://img.shields.io/badge/MySQL-success" />
+<img src="https://img.shields.io/badge/PHP-success" /><img src="https://img.shields.io/badge/MySQL-success" />
 <img src="https://img.shields.io/badge/JQuery-success" />
 <img src="https://img.shields.io/badge/HTML5-success" />
 <img src="https://img.shields.io/badge/CSS3-success" />
