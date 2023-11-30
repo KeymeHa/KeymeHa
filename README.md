@@ -9,7 +9,7 @@
 <br>
 <h3 align="left">Algo sobre mí</h3>
 <p>Me dedico al desarrollo de aplicaciones Web y laboro de manera independiente participando en proyectos desde que nace  
-como una idea hasta su despliegue y mantenimiento, en mi vida secular me dedico a la música y a disfrutar en familia de la vida.</p>
+como una idea, hasta su despliegue y mantenimiento. En mi vida secular me dedico a la música y a disfrutar en familia de la vida.</p>
 <br>
 <hr>
 <h3 align="left">Herramientas y Habilitades</h3>
