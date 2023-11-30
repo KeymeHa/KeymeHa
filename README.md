@@ -14,6 +14,7 @@ como una idea hasta su despliegue y mantenimiento, en mi vida secular me dedico 
 <hr>
 <h3 align="left">Herramientas y Habilitades</h3>
 <br>
+<p align="center">
 <img src="https://img.shields.io/badge/PHP-success" /><img src="https://img.shields.io/badge/MySQL-success" />
 <img src="https://img.shields.io/badge/JQuery-success" />
 <img src="https://img.shields.io/badge/HTML5-success" />
@@ -24,3 +25,4 @@ como una idea hasta su despliegue y mantenimiento, en mi vida secular me dedico 
 <img src="https://img.shields.io/badge/Linux-success" />
 <img src="https://img.shields.io/badge/Servers-success" />
 <img src="https://img.shields.io/badge/Wordpress-success" />
+</p>
