@@ -15,7 +15,8 @@ como una idea, hasta su despliegue y mantenimiento. En mi vida secular me dedico
 <h3 align="left">Herramientas y Habilitades</h3>
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/PHP-success" /><img src="https://img.shields.io/badge/MySQL-success" />
+<img src="https://img.shields.io/badge/PHP-success" />
+<img src="https://img.shields.io/badge/MySQL-success" />
 <img src="https://img.shields.io/badge/JQuery-success" />
 <img src="https://img.shields.io/badge/HTML5-success" />
 <img src="https://img.shields.io/badge/CSS3-success" />
