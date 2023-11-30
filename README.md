@@ -1,6 +1,3 @@
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
- </p>
  <p align="center">
   <img src="https://img.shields.io/badge/Colombiano-success" />
   <img src="https://img.shields.io/badge/Desarrollador Web-brightgreen" />
@@ -23,7 +20,7 @@ como una idea hasta su despliegue y mantenimiento, en mi vida secular me dedico 
 <img src="https://img.shields.io/badge/HTML5-success" />
 <img src="https://img.shields.io/badge/CSS3-success" />
 <img src="https://img.shields.io/badge/Javascript-success" />
-<img src="https://img.shields.io/badge/Node%JS-success" />
+<img src="https://img.shields.io/badge/Node JS-success" />
 <img src="https://img.shields.io/badge/Git-success" />
 <img src="https://img.shields.io/badge/Linux-success" />
 <img src="https://img.shields.io/badge/Servers-success" />
