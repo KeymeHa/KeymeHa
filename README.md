@@ -5,6 +5,7 @@
 <hr>
 <h1 align="center">Me Presento, soy <strong>Kevin Bolaño</strong></h1>
 <h4 align="center"> TECNÓLOGO EN ANALISIS Y DESARROLLO DE SISTEMAS DE INFORMACION </h4>
+<h3 align="center"> Estudiante ING. Sistemas 10 Semestre </h3>
 <hr>
 <br>
 <h3 align="left">Algo sobre mí</h3>
